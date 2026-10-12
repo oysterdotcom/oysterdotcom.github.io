@@ -22,18 +22,19 @@ h2 {
 .links {
     text-align: left;
     background-color:rgb(247, 243, 236);
-    font-size: 2em;
+    font-size: 1.5em;
     color:rgb(110, 110, 255);
     font-family:'Inter', sans-serif;
     
 }
 .links a {
     text-decoration:none;
+    color:rgb(110, 110, 255);
 }
 .links:visited {
     color:rgb(110, 110, 255);
 }
 .links:hover {
-    color:rgb(99, 99, 226);
+    color:rgb(86, 86, 197);
     background-color:rgb(209, 205, 197);
 }

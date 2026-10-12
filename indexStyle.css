@@ -25,10 +25,10 @@ h2 {
     font-size: 2em;
     color:rgb(110, 110, 255);
     font-family:'Inter', sans-serif;
-    font-style:oblique;
+    
+}
+.links a {
     text-decoration:none;
-    padding-top:5%;
-    padding-bottom:5%;
 }
 .links:visited {
     color:rgb(110, 110, 255);

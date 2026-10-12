@@ -22,12 +22,13 @@ h2 {
 .links {
     text-align: left;
     background-color:rgb(247, 243, 236);
-    font-size: 1em;
+    font-size: 2em;
     color:rgb(110, 110, 255);
     font-family:'Inter', sans-serif;
-    font-style:bold;
+    font-style:oblique;
     text-decoration:none;
-    padding:15%;
+    padding-top:5%;
+    padding-bottom:5%;
 }
 .links:visited {
     color:rgb(110, 110, 255);

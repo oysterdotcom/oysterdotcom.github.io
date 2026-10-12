@@ -3,5 +3,9 @@ body {
 }
 h1 {
     color:rgb(33, 33, 153);
-    font-family:Tahmona, Geneva, Verdana, sans-serif;
+    font-family:'Inter', sans-serif;
+}
+h2 {
+    color:rgb(33, 33, 153);
+    font-family:'Inter', sans-serif;
 }

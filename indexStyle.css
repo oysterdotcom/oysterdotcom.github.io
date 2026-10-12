@@ -25,7 +25,9 @@ h2 {
     font-size: 1em;
     color:rgb(110, 110, 255);
     font-family:'Inter', sans-serif;
-    font-style:normal;
+    font-style:bold;
+    text-decoration:none;
+    padding:15%;
 }
 .links:visited {
     color:rgb(110, 110, 255);

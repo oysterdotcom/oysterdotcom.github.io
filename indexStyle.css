@@ -1,5 +1,5 @@
 body {
-    background-color:rgb(228, 223, 215);
+    background-color:rgb(238, 233, 225);
 }
 h1 {
     text-align: center;
@@ -20,8 +20,10 @@ h2 {
 
 }
 .links {
-    text-align: center;
+    text-align: left;
+    background-color:rgb(247, 243, 236);
     font-size: 1em;
     color:rgb(110, 110, 255);
     font-family:'Inter', sans-serif;
+    font-style:normal;
 }
